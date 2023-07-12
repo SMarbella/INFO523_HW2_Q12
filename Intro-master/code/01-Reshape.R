@@ -1,3 +1,7 @@
+# New annotation:
+# From the forked repo (#4), select one of the scripts under Code/, add some annotations, commit, and push.
+# Your forked should be >0 commits ahead of your original repo in #2. List the link to the new commit in `q12.5`.
+
 ### 01-Reshape.R
 # install.packages("reshape2")
 # library(reshape2)
